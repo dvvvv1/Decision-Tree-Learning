@@ -1,0 +1,12 @@
+% [train] specifies the path to a set of training data (input-output pairs), which is
+% a text file formatted according to the sample train.txt.
+DTL_Train_File = "Train";
+
+% [test] specifies the path to a set of testing data, which is a text file where the
+% first line is a header containing the names of the columns, and each subsequent
+% line contains the five financial ratios of a company. Detail see example file test.txt.
+DTL_Test_File = "Test";
+
+% [Minleaf] is an integer greater than zero which specifies the second input param-
+% eter to the DTL algorithm (Algorithm 1).
+DTL_Minleaf = "20";
