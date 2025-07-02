@@ -1,11 +1,13 @@
+/**
+ * This is the base class of the gain value calculation.
+ * @author pz.yao
+ *
+ */
+
 package algorithms;
 
 import java.util.Vector;
-/**
- * This is the base class of gain value calculation.
- * @author puzhiyao
- *
- */
+
 public class GainCalculation {
 	/**
 	 * This functions calculate the Information Gain Value.
