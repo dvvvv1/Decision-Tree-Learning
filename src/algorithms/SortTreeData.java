@@ -1,11 +1,12 @@
+/**
+ * This is the base class of the Tree Data Sort Algorithm.
+ * @author pz.yao
+ */
+
 package algorithms;
 
 import java.util.Vector;
-/**
- * This is the base class of Tree Data Sort Algorithm.
- * @author puzhiyao
- *
- */
+
 public class SortTreeData {
 	/**
 	 * This function uses shell sort to sort the data value
