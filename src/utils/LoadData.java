@@ -1,3 +1,8 @@
+/**
+ * This class is used for loading the training and test data.
+ * @author pz.yao
+ */
+
 package utils;
 
 import java.io.BufferedReader;
@@ -6,11 +11,6 @@ import java.io.FileReader;
 import java.io.IOException;
 import java.util.Vector;
 
-/**
- * This class is used for loading train and test data.
- * @author puzhiyao
- *
- */
 public class LoadData {
 	
 	/**
