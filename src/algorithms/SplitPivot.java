@@ -1,11 +1,12 @@
+/**
+ * This is the base class of the split value algorithm.
+ * @author pz.yao
+ */
+
 package algorithms;
 
 import java.util.Vector;
-/**
- * This is the base class of the split value algorithm.
- * @author puzhiyao
- *
- */
+
 public class SplitPivot {
 	/**
 	 * This function sets split value of the node.
