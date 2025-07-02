@@ -1,11 +1,12 @@
+/**
+ * This is the base class of the split sub-branch method.
+ * @author pz.yao
+ */
+
 package algorithms;
 
 import java.util.Vector;
-/**
- * This is the base class of split sub-branch method.
- * @author puzhiyao
- *
- */
+
 public class SplitBranch {
 	/**
 	 * This method split left sub branch data.
