@@ -1,9 +1,10 @@
-package utils;
 /**
- * Arguments validation
- * @author puzhiyao
- *
+ * Argument validation
+ * @author pz.yao
  */
+
+package utils;
+
 public class ArgsValidation {
 	private static String argError01 = "Argument Length Error";
 	private static String argError02 = "MinLeaf value Error";
