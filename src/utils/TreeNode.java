@@ -1,9 +1,10 @@
-package utils;
 /**
- * This is the node class the decision tree model
- * @author puzhiyao
- *
+ * This is the node class of the decision tree model
+ * @author pz.yao
  */
+
+package utils;
+
 public class TreeNode {
 
 	/*
