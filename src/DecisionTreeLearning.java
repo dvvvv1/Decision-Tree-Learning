@@ -1,3 +1,8 @@
+/**
+ * @author pz.yao 
+ * Coding Date: 19 April 2015
+ */
+
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
@@ -15,11 +20,6 @@ import utils.TreeNode;
  * DTL_Train_File = "train"; 
  * DTL_Test_File = "test"; 
  * DTL_Minleaf = "20";
- * 
- * @author puzhiyao 
- * Email: puzhi.yao@gmail.com 
- * Coding Date: 19 April 2015
- *
  */
 public class DecisionTreeLearning {
 	/*
