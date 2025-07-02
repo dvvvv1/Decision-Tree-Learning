@@ -1,12 +1,14 @@
+/**
+ * This is the algorithm class of Decision Tree Learning.
+ * @author pz.yao
+ *
+ */
+
 package algorithms;
 
 import java.util.Vector;
 import utils.TreeNode;
-/**
- * This is the algorithm class of Decision Tree Learning.
- * @author puzhiyao
- *
- */
+
 public class DTL {
 
 	/**
